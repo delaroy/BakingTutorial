@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BakingTutorial</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="ingredients_title_text">Ingredients</string>
+</resources>
